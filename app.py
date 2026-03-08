@@ -1,4 +1,4 @@
-print("welcome to datamites, lets learn data science")
+print("welcome to rubix, lets learn data science")
 a = 30
 b = 20
 print(a+b)
