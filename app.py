@@ -1,1 +1,1 @@
-print("welcome to datamites!")
+print("welcome to datamites, lets learn data science")
